@@ -1,16 +1,24 @@
-## Hi there 👋
-
-<!--
-**Danaee24/Danaee24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Datos personales
+Nombre Sara Danae Romero González
+Edad 22 años
+Pasante Negocios Internacionales
+Perfil profesional
+Mi nombre es Sara Danae Romero González. Soy pasante de la Licenciatura en Negocios Internacionales,
+egresada de la Universidad Privada del Estado de México (UPEM). Me considero una persona
+responsable que sabe adaptarse fácilmente a diferentes situaciones y entornos laborales.
+Formación académica
+UPEM (2024–2026)
+Licenciatura en Negocios Internacionales
+CBT No. 1 Dr. Jorge Jiménez Cantú (2019–2022)
+Técnica en Informática
+Secundaria Técnica 223 (2016–2019)
+Técnica en Informática
+Experiencia
+Experiencia en logística de mercancías. Disponibilidad para trasladarse a otra sucursal. Experiencia en
+liderazgo de equipos de hasta 10 personas.
+Habilidades
+• Liderazgo
+• Disciplina
+• Responsabilidad
+• Adaptabilidad
+• Comunicación
